@@ -1,7 +1,7 @@
 export const LP_GRID_ITEMS = [
   {
-    title: "Ingles",
-    description: "Optimizado.",
+    title: "Inglés",
+    description: "Un sistema optimizado que utiliza las mejores prácticas para garantizar que todo funcione perfectamente, especialmente en inglés.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,7 @@ export const LP_GRID_ITEMS = [
   },
   {
     title: "Ideas",
-    description: "El carlo tiene las mejores ideas.",
+    description: "Inspirado en la creatividad ilimitada. Cada solución y concepto es diseñado cuidadosamente para ser innovador y único.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -41,7 +41,7 @@ export const LP_GRID_ITEMS = [
   },
   {
     title: "Elegante",
-    description: "Elegante bonito y limpio.",
+    description: "Diseño elegante, minimalista y moderno. Ideal para proyectos que buscan un enfoque limpio y profesional.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -57,7 +57,7 @@ export const LP_GRID_ITEMS = [
   },
   {
     title: "Bien hecho",
-    description: "Hecho por el carlo programando.",
+    description: "Todos los detalles están pulidos al máximo para entregar una experiencia impecable creada con pasión.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -70,14 +70,15 @@ export const LP_GRID_ITEMS = [
         <path
           strokeLinecap="round"
           strokeLinejoin="round"
-          d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z"
+          d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.
+        25-3.285z"
         />
       </svg>
     ),
   },
   {
     title: "Plugins",
-    description: "Cosas que sirven.",
+    description: "Complementos diseñados para mejorar tu experiencia y agregar funcionalidades clave a cualquier proyecto.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -97,7 +98,7 @@ export const LP_GRID_ITEMS = [
   },
   {
     title: "Actualizado",
-    description: "Actualizado los componentes 24/7 IA.",
+    description: "Componentes y sistemas siempre actualizados para mantener el máximo rendimiento y adaptarse a las tendencias más recientes.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -116,8 +117,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Todo automatico",
-    description: "Todo hecho automatizado y rapido.",
+    title: "Todo automático",
+    description: "Automatización total para agilizar procesos, reducir errores y lograr resultados más rápidos y eficientes.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -135,4 +136,4 @@ export const LP_GRID_ITEMS = [
       </svg>
     ),
   },
-]
+];
