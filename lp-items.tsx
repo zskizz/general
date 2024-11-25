@@ -1,6 +1,6 @@
 export const LP_GRID_ITEMS = [
   {
-    title: "Ingles",
+    title: "WEB",
     description: "Un sistema optimizado que utiliza las mejores prácticas para garantizar que todo funcione perfectamente, especialmente en inglés.",
     icon: (
       <svg
