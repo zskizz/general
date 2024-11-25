@@ -1,7 +1,7 @@
 export const LP_GRID_ITEMS = [
   {
-    title: "Next.js",
-    description: "Fast by default, with config optimized for performance.",
+    title: "Ingles",
+    description: "Optimizado.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -20,8 +20,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Tailwind CSS",
-    description: "A utility-first CSS framework for rapid UI development.",
+    title: "Ideas",
+    description: "El carlo tiene las mejores ideas.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
